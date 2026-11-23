@@ -74,4 +74,3 @@ No new components or routes are required.
    ```
 
 5. Open `http://localhost:3000` in your browser.
-```
